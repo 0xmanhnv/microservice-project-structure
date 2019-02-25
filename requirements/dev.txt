@@ -1,0 +1,6 @@
+-r prod.txt
+
+# Testing
+factory-boy
+click
+Flask-Testing
